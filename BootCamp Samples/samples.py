@@ -5,7 +5,7 @@ else:print("Hello, World")
 
 soru = input("Would you like to play a game? :")
 if len(soru) > 0:
-    if soru == "yes":print("Defol lan işin mi yok?")
+    if soru == "yes":print("So do you really have enough time?")
     else:print("Okay Good Bye!")
 else:
     tekrar = input("Please say something: ")
